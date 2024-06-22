@@ -4,6 +4,6 @@ EBISUCOM様出版の書籍[『作って学ぶ　HTML + CSS グリッドレイア
 
 - [公式ソースコード](https://github.com/ebisucom/grid-layout?tab=readme-ov-file)
 
-## Zennの学習記録ページ
+## zenn 学習記録ページ
 
 - [スクラップ](https://zenn.dev/kei615ykhm/scraps/fd50ebf4253737)
