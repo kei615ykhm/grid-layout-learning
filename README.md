@@ -6,4 +6,4 @@ EBISUCOM様出版の書籍[『作って学ぶ　HTML + CSS グリッドレイア
 
 ## zenn 学習記録ページ
 
-- [スクラップ](https://zenn.dev/kei615ykhm/scraps/fd50ebf4253737)
+- [スクラップ(情報整理)](https://zenn.dev/kei615ykhm/scraps/fd50ebf4253737)
